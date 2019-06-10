@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/icon_save"
+        android:icon="@drawable/ic_save"
+        android:title="Save Done"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/icon_update"
+        android:icon="@drawable/ic_update"
+        android:title="Update Done"
+        app:showAsAction="always"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/icon_delete"
+        android:icon="@drawable/ic_delete"
+        android:title="Delete Done"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/icon_cancel"
+        android:icon="@drawable/ic_cancel"
+        android:title="Clean Done"
+        app:showAsAction="always" />
+
+    <!--<item
+        android:id="@+id/icon_saveOrUpdate"
+        android:icon="@drawable/ic_saveorupdate"
+        android:title="Save or update Done"
+        app:showAsAction="always" />-->
+
+</menu>

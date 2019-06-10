@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cbmSuppliers">
+        <item>Berenice Arias</item>
+        <item>Abigail Loviedo</item>
+        <item>Ana Ledezma</item>
+        <item>Carolina Ramos</item>
+        <item>Lila Sandoval</item>
+        <item>Daniela Guerrero</item>
+        <item>Lucy Salazar</item>
+        <item>Sandra Sandoval</item>
+        <item>Paola</item>
+        <item>Marines</item>
+    </string-array>
+</resources>

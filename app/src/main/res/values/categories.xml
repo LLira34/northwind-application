@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cbmCategories">
+        <item>1. Beverages</item>
+        <item>2. Condiments</item>
+        <item>3. Confections</item>
+        <item>4. Dairy Products</item>
+        <item>5. Grains/Cereals</item>
+        <item>6. Meat/Poultry</item>
+        <item>7. Produce</item>
+        <item>8. Seafood</item>
+    </string-array>
+</resources>

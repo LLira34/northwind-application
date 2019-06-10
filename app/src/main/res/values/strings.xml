@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Northwind</string>
+
+    <!-- Name edit text -->
+    <string name="txtProductName">Nombre del Producto</string>
+    <string name="txtQuantityPerUnit">Cantidad por Unidad</string>
+    <string name="txtUnitPrice">Precio Unitario</string>
+    <string name="ProductList">Lista de Productos</string>
+
+    <!-- Buttons -->
+    <string name="Save">Guardar</string>
+    <string name="Edit">Editar</string>
+</resources>

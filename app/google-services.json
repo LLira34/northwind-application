@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587067869532",
+    "firebase_url": "https://northwind-b9e89.firebaseio.com",
+    "project_id": "northwind-b9e89",
+    "storage_bucket": "northwind-b9e89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587067869532:android:31d27bba8b91434f",
+        "android_client_info": {
+          "package_name": "net.lira.northwind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587067869532-qp58n9o80kjd71mkh21j7hmcte61js8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.lira.northwind",
+            "certificate_hash": "1715401e502cb15f349d37da42dd3a4e67adad0a"
+          }
+        },
+        {
+          "client_id": "587067869532-4mb980pmtn4okc77759c3gjm3k1ehgkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ_dohLMIDVrsGXa_iDPCFtF_P7i9CfJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587067869532-4mb980pmtn4okc77759c3gjm3k1ehgkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
